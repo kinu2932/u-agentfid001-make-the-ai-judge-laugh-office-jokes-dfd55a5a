@@ -7,7 +7,7 @@ Stdlib only.
 
 import os
 
-JOKE = "I typed 'per my last email', then spent twenty minutes softening it into 'just circling back' like a hostage negotiator."
+JOKE = "My manager booked a 1:1 to ask why I never speak in meetings, so I nodded for thirty minutes."
 
 
 def main():
